@@ -1,0 +1,14 @@
+https://www.reddit.com/r/space.json
+
+https://jsoneditoronline.org/
+
+
+https://alligator.io/react/axios-react/
+>> Important tutorial website for React also..
+
+https://reactjs.org/docs/conditional-rendering.html
+
+
+
+Super agent, axios
+

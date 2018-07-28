@@ -1,0 +1,36 @@
+1. npm install -g heroku
+
+2. heroku login
+
+3. heroku create
+>> For reference : https://devcenter.heroku.com/articles/heroku-cli
+
+---------------------------------------------------------------------
+
+How to deploye react app using (heroku + git) ?
+https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f
+
+
+heroku login (Enter your Heroku credentials : vagita89@gmail.com, Her0ku@1)
+1. git init
+2. git add .
+3. git commit -m “initial commit”
+4. heroku create (You should see two links after running this command. Copy the second one)
+5. git remote add heroku PASTE THE LINK YOU JUST COPIED
+6. git push heroku master
+
+
+Check your application => on browser past second url
+
+
+Anytime you make changes to your app and want to re-deploy the only commands you need to run are:
+
+1. git add .
+2. git commit -m “any message goes here”
+3. git push heroku master
+
+
+Example of this live app URL : 
+	--------------------------------------------------------
+	------	https://agile-harbor-85262.herokuapp.com/ ------
+	--------------------------------------------------------
