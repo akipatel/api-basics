@@ -1,0 +1,32 @@
+1. Create new branch
+>> git branch substract
+
+2. Switch to 'substract' branch
+>> git checkout substract
+
+3. Add changes to staging directory
+>> git add -A
+
+4. Commit code 
+>> git commit -m 'subscract'
+
+5. Push code
+>> git push -u origin subsract
+
+6. Checkout to master
+>> git checkout master 
+
+7. Pull changes if any @master
+>> git pull origin master
+
+8. Merge branch to origin
+>> git merge substract
+
+9. Push branch to origin
+>> git push origin master
+
+10. Delete branch
+>> git branch -d substract
+
+11. Delete branch from local repository
+>> git push origin --delete substract
