@@ -28,8 +28,14 @@
 10. Delete branch
 >> git branch -d substract
 
+10.1 Get list of local branches
+>> git branch -a
+
 11. Delete branch from local repository
 >> git push origin --delete substract
 
 Note : To copy your github with git 
 >> git clone https://github.com/akipatel/api-basics.git
+
+Reference Link
+>> https://www.youtube.com/watch?v=HVsySz-h9r4
