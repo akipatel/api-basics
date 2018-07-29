@@ -30,3 +30,6 @@
 
 11. Delete branch from local repository
 >> git push origin --delete substract
+
+Note : To copy your github with git 
+>> git clone https://github.com/akipatel/api-basics.git
